@@ -15,6 +15,7 @@
 - [Laide Lawal](https://github.com/LaideLawal)
 - [Philip]
 - [Jon Pena]
+- [Cao Chenglong] (https://github.com/BossCclHungry)
 - [khada]
 - [akavort]
 - [Collins Kandongwe](https://github.com/Kandongwe)
